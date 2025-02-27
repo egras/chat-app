@@ -2,7 +2,7 @@
     let chatContainer = document.createElement("div");
     chatContainer.id = "chatbot-widget";
     chatContainer.style.position = "fixed";
-    chatContainer.style.bottom = "20px";
+    chatContainer.style.top = "20px";
     chatContainer.style.right = "20px";
     chatContainer.style.width = "320px";
     chatContainer.style.height = "450px";
