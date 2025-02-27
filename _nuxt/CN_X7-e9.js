@@ -1,0 +1,1 @@
+import{_,g as a,t as n,v as s,z as e,x as c,O as d}from"./DRVGJRHH.js";const r={id:"chat-widget"},p={__name:"default",setup(l){return(u,i)=>{const t=d,o=a("NuxtChild");return s(),n("div",null,[e(t),c("div",r,[e(o)])])}}},x=_(p,[["__scopeId","data-v-2e8966b8"]]);export{x as default};
